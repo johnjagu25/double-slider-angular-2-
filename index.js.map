@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,sBAAsB,CAAC;AACjD,OAAO,EAAE,qBAAqB,EAAE,MAAM,iDAAiD,CAAC","sourcesContent":["export { AppModule } from './src/app/app.module';\r\nexport { DoubleSliderComponent } from './src/app/slider-module/double-slider.component';"]}

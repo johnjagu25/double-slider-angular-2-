@@ -1,0 +1,28 @@
+{
+  "name": "double-slider",
+  "version": "1.0.0",
+  "description": "Double Slider for Angular 2+",
+  "main": "bundles/amazing.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "angular double slider",
+    "angular2 double slider",
+    "angular 2 double slider",
+    "angular4 double silder"
+  ],
+  "author": "John wilson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnjagu25/double-slider-angular-2-"
+  },
+  "homepage": "https://github.com/johnjagu25/double-slider-angular-2-",
+  "bugs": {
+    "url": "https://github.com/johnjagu25/double-slider-angular-2-"
+  },
+  "peerDependencies": {
+    "@angular/core": "^2.4.0 || ^4.0.0",
+    "rxjs": "^5.0.1"
+  }
+}

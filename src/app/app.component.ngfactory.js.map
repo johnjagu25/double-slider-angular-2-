@@ -1,0 +1,1 @@
+{"version":3,"file":"app.component.ngfactory.js","sourceRoot":"","sources":["../../../src/app/app.component.ngfactory.ts","../../../src/app/app.component.html"],"names":[],"mappings":";;;;;;;;;;;;8DCAA,2EAAI,KAAA,iCAAI,MAAK,+BACb","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n","<h1>TEST</h1>\n"]}
